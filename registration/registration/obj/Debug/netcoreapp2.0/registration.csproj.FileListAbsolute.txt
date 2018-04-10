@@ -1,0 +1,11 @@
+C:\Users\rufet\Desktop\registration\registration\bin\Debug\netcoreapp2.0\registration.deps.json
+C:\Users\rufet\Desktop\registration\registration\bin\Debug\netcoreapp2.0\registration.runtimeconfig.json
+C:\Users\rufet\Desktop\registration\registration\bin\Debug\netcoreapp2.0\registration.runtimeconfig.dev.json
+C:\Users\rufet\Desktop\registration\registration\bin\Debug\netcoreapp2.0\registration.dll
+C:\Users\rufet\Desktop\registration\registration\bin\Debug\netcoreapp2.0\registration.pdb
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.csprojResolveAssemblyReference.cache
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.csproj.CoreCompileInputs.cache
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.AssemblyInfoInputs.cache
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.AssemblyInfo.cs
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.dll
+C:\Users\rufet\Desktop\registration\registration\obj\Debug\netcoreapp2.0\registration.pdb
